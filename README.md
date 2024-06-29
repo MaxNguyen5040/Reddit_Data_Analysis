@@ -4,6 +4,9 @@ I've always wanted to examine reddit data, but I haven't been able to find a too
 
 My goal with this project was to create a program with a simple interface so that anyone could type in a term or phrase, and then Python would retrieve any posts/comments containing that phrase, and run some really simple sentiment analysis to tell the user how positive/negative it was on a scale of 10, using libraries like SentimentR (https://github.com/modarwish1/sentimentr). 
 
+**Note**
+I've been running my code locally due to the size of the data files, but I will commit my changes to this github going forward!
+
 Development Progress:
  - Big milestone! My script now retrieves comments and gives each an (admittedly!) rough estimate on positivity/negativity.
  - 
