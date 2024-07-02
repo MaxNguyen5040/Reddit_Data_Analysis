@@ -9,7 +9,7 @@ I've been running my code locally due to the size of the data files, but I will 
 
 Development Progress:
  - Big milestone! My script now retrieves comments and gives each an (admittedly!) rough estimate on positivity/negativity.
- - 
+   - If a user wanted to research a topic like "medicine", they can now view any posts/comments and get some insight on if those discussions were positive or negative! 
 
 Future Steps:
  -  My next steps will be moving my code to a platform like Google Collab, so that people could run my script (since the reddit files are pretty huge).
